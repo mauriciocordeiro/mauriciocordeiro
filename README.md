@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=mauriciocordeiro&show_icons=true&theme=dark&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciocordeiro&icons=true&theme=dark&layout=compact)
