@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=mauriciocordeiro&show_icons=true&theme=dark&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciocordeiro&icons=true&theme=dark&layout=compact)
+### Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mauriciocordeiro&show_icons=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciocordeiro&icons=true&layout=compact)
 
 <!--
 **mauriciocordeiro/mauriciocordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
